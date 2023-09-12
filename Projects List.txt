@@ -1,0 +1,17 @@
+Ranorex Studio Android 13 Updates - Firstly reproduce the issue is very important
+inject events issue for Android 13 is not Fixed
+learnt Android testing
+learnt from Mistake :
+if found any issue should get acknowledge from team lead / Developers
+Should have 100percentage clarity will telling anything or should ask time 
+
+
+Ranorex Studio iOS 17 Research : learnt ios testing
+
+Ranorex Studio Android UIAutomator Research :I should focous more on finding Bugs
+
+Android Improvement Project :Firstly Read and understanding the test case or ticket is very important and should have 100% clarity
+
+FPC 31 :
+
+Ranorex Studio Split Chromium, Edge, Chrome Plugin PRD :
